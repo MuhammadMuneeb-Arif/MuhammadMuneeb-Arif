@@ -1,0 +1,13 @@
+let x = 10;
+let y = 5;
+let sum = x + y;
+console.log(sum);
+let a = 10;
+let b = 4;
+let subtract = a - b;
+console.log(subtract);
+let multiplication = a * b;
+console.log(multiplication);
+let divide = a / b;
+console.log(divide);
+export {};
